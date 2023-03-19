@@ -1,0 +1,52 @@
+.topnav {
+    background-color: #0c0338;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  
+  .topnav a.lol {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+.main {
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.give {
+    background-color: rgb(212, 232, 239);
+}
+
+th {
+    color: #1b1543;
+}
+h1, h3 {
+
+    color: #0c0338;
+}
+
+footer {
+    background-color: #f4f4eb;
+    padding: 30px;
+    margin: 10px 0;
+    text-align: center;
+}
+footer a{
+    color: rgb(68, 64, 64);
+}
