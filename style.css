@@ -1,6 +1,7 @@
 .topnav {
     background-color: #0c0338;
     overflow: hidden;
+
   }
   
   .topnav a {
@@ -27,6 +28,12 @@
 .main {
     padding: 30px;
     margin-bottom: 20px;
+    height: 30%;
+    width: 30%;
+    margin-left: 35%;
+    text-align: center;
+    position: relative;
+    top: 30px;
 }
 
 .give {
@@ -35,6 +42,7 @@
 
 th {
     color: #1b1543;
+    text-align: left
 }
 h1, h3 {
 
@@ -42,11 +50,107 @@ h1, h3 {
 }
 
 footer {
-    background-color: #f4f4eb;
+    background-color: aliceblue; 
     padding: 30px;
-    margin: 10px 0;
     text-align: center;
+    border-radius: 10px;
 }
 footer a{
     color: rgb(68, 64, 64);
 }
+img {
+    width: 200px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+table {
+    margin-left: 30%;
+}
+
+.me {
+    position: absolute;
+    left: 300px;
+    margin-top: 30px;
+}
+.big {
+    display: inline-block;
+    margin-left: 520px;
+    margin-top: 30px;
+}
+.big p{
+    text-align: left;
+    width: 600px;
+    
+}
+.me, .big{
+    margin-bottom: 50px;
+}
+.service {
+    padding: 20px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.cjp{
+    position: absolute;
+    left: 50px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+
+
+.lp{
+    display: inline-block;
+    margin-left: 290px;
+    width: 370px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+.ai{
+    position: absolute;
+    left: 720px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+.aii{
+    display: inline-block;
+    margin-left: 290px;
+    width: 370px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+.aa{
+    position: absolute;
+    left: 50px;
+    margin-bottom: 70px;
+    margin-top: 350px;
+}
+
+.ab{
+    display: inline-block;
+    margin-left: 290px;
+    width: 370px;
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
+
+.bb{
+    position: absolute;
+    left: 720px;
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
+
+.bc{
+    display: inline-block;
+    margin-left: 290px;
+    width: 370px;
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
+
